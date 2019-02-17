@@ -2,10 +2,6 @@ p{
 	font-family: 'PT Serif Caption', serif;
 }
 
-body{
-	background-color: #f3eecb;
-}
-
 h1,h2,h3,h4,h5,h6{
 	font-family: 'PT Serif Caption', serif;
 }
@@ -13,4 +9,8 @@ h1,h2,h3,h4,h5,h6{
 img{
 	opacity: 0.9;
 	border-radius: 20%;
+}
+
+body{
+	background-color: #f3eecb;
 }
