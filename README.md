@@ -21,4 +21,17 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
+Reference:
+https://encycolorpedia.com/f3eecb
 
+Part1:
+http://www.gutenberg.org/ebooks/1342
+http://www.gutenberg.org/ebooks/1661
+http://www.gutenberg.org/ebooks/98
+
+added the following font lines to the three htmls: 1.html, 2.html, 3.html
+<link href="https://fonts.googleapis.com/css?family=PT+Serif+Caption" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="part1.css">
+
+removed the backgroud colour:
+background:#faebd0;
