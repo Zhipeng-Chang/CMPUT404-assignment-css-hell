@@ -24,8 +24,8 @@ Code is licensed under the Apache 2.0 license.
 Zhipeng Chang
 
 # Reference:
-* https://encycolorpedia.com/f3eecb
-* https://www.w3schools.com/howto/howto_css_fixed_sidebar.asp
+* Color found from: https://encycolorpedia.com/f3eecb, https://www.google.com/search?q=html+color+picker&oq=html+co&aqs=chrome.0.69i59j0j69i60l2j69i57j69i60.1784j1j4&sourceid=chrome&ie=UTF-8
+* Part2 sidebar css found from: https://www.w3schools.com/howto/howto_css_fixed_sidebar.asp
 
 # Modifications
 ## Part1:
