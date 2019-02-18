@@ -34,8 +34,8 @@ Zhipeng Chang
 * http://www.gutenberg.org/ebooks/98
 
 * added the following font lines to the three htmls: 1.html, 2.html, 3.html
- <link href="https://fonts.googleapis.com/css?family=PT+Serif+Caption" rel="stylesheet">
- <link rel="stylesheet" type="text/css" href="part1.css">
+* < link href="https://fonts.googleapis.com/css?family=PT+Serif+Caption" rel="stylesheet" >
+* < link rel="stylesheet" type="text/css" href="part1.css" >
 
 * removed the backgroud colour:
 * background:#faebd0;
