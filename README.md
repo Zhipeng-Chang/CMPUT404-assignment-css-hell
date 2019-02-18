@@ -23,6 +23,7 @@ Code is licensed under the Apache 2.0 license.
 
 Reference:
 https://encycolorpedia.com/f3eecb
+https://www.w3schools.com/howto/howto_css_fixed_sidebar.asp
 
 Part1:
 http://www.gutenberg.org/ebooks/1342
