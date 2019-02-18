@@ -29,7 +29,7 @@ Zhipeng Chang
 
 ## Part1:
 ### Books
-* http://www.gutenberg.org/ebooks/1342
+* http://www.gutenberg.org/ebooks/58907
 * http://www.gutenberg.org/ebooks/1661
 * http://www.gutenberg.org/ebooks/98
 
@@ -39,4 +39,4 @@ Zhipeng Chang
 * < link rel="stylesheet" type="text/css" href="part1.css" >
 
 * removed the backgroud colour:
-* background:#faebd0;
+* background:#faebd0; background:#ffffff (1.html)

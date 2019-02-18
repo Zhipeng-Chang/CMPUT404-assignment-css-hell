@@ -10,6 +10,11 @@ img{
 	border-radius: 20%;
 }
 
+.caption {
+	font-family: 'PT Serif Caption', serif;
+	font-size: 10px;
+}
+
 body{
 	background-color: #f3eecb;
 }
