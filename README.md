@@ -21,18 +21,21 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
-Reference:
-https://encycolorpedia.com/f3eecb
-https://www.w3schools.com/howto/howto_css_fixed_sidebar.asp
+Zhipeng Chang
 
-Part1:
-http://www.gutenberg.org/ebooks/1342
-http://www.gutenberg.org/ebooks/1661
-http://www.gutenberg.org/ebooks/98
+# Reference:
+* https://encycolorpedia.com/f3eecb
+* https://www.w3schools.com/howto/howto_css_fixed_sidebar.asp
 
-added the following font lines to the three htmls: 1.html, 2.html, 3.html
-<link href="https://fonts.googleapis.com/css?family=PT+Serif+Caption" rel="stylesheet">
-<link rel="stylesheet" type="text/css" href="part1.css">
+# Modifications
+## Part1:
+* http://www.gutenberg.org/ebooks/1342
+* http://www.gutenberg.org/ebooks/1661
+* http://www.gutenberg.org/ebooks/98
 
-removed the backgroud colour:
-background:#faebd0;
+* added the following font lines to the three htmls: 1.html, 2.html, 3.html
+ <link href="https://fonts.googleapis.com/css?family=PT+Serif+Caption" rel="stylesheet">
+ <link rel="stylesheet" type="text/css" href="part1.css">
+
+* removed the backgroud colour:
+* background:#faebd0;
