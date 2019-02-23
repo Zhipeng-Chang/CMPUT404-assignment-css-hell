@@ -34,9 +34,9 @@ Zhipeng Chang
 * http://www.gutenberg.org/ebooks/98
 
 ### Modifications
-* added the following font lines to the three htmls: 1.html, 2.html, 3.html
+* **added the following font lines to the three htmls: 1.html, 2.html, 3.html**
 * < link href="https://fonts.googleapis.com/css?family=PT+Serif+Caption" rel="stylesheet" >
 * < link rel="stylesheet" type="text/css" href="part1.css" >
 
-* removed the backgroud colour:
-* background:#faebd0; background:#ffffff (1.html)
+* **removed the backgroud colour from the orginal html files**
+* background:#faebd0; background:#ffffff (from 1.html)
