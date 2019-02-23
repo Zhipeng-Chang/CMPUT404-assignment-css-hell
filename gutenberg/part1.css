@@ -1,9 +1,11 @@
 p{
 	font-family: 'PT Serif Caption', serif;
+	font-weight: normal;
 }
 
 h1,h2,h3,h4,h5,h6{
 	font-family: 'PT Serif Caption', serif;
+	font-weight: bold;
 }
 
 img{
@@ -13,6 +15,7 @@ img{
 .caption {
 	font-family: 'PT Serif Caption', serif;
 	font-size: 10px;
+	font-weight: normal;
 }
 
 body{
