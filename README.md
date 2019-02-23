@@ -38,5 +38,5 @@ Zhipeng Chang
 * < link href="https://fonts.googleapis.com/css?family=PT+Serif+Caption" rel="stylesheet" >
 * < link rel="stylesheet" type="text/css" href="part1.css" >
 
-* **removed the backgroud colour:**
+* **removed the backgroud colour from the orginal html files**
 * background:#faebd0; background:#ffffff (from 1.html)
