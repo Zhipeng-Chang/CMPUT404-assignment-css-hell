@@ -39,4 +39,4 @@ Zhipeng Chang
 * < link rel="stylesheet" type="text/css" href="part1.css" >
 
 * **removed the backgroud colour from the orginal html files**
-* background:#faebd0; background:#ffffff (from 1.html)
+* background:#faebd0; background:#ffffff (from 1.html); background-color:#ffffff;(from 1.html)
